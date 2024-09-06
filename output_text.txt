@@ -1,0 +1,1438 @@
+®&
+
+Dividing wall revamp boosts octane
+and throughput
+
+Dividing wall column technology reduces energy and capex, but increasingly contributes to
+higher revenues from better products, as in this application to light naphtha isomerisation
+
+MANISH BHARGAVA and ANJU PATIL
+DWC Innovations
+
+ronmental awareness require
+
+refineries to produce clean,
+high-octane gasoline products. The
+octane number or RON is primarily
+the knock resistance measure of gas-
+oline. It has a numerical value from
+0 to 100 and primarily describes the
+behaviour of the fuel in the engine
+during combustion at lower tem-
+peratures and speeds. To take RON
+values to higher levels, the reform-
+ing and light naphtha isomerisation
+process became an integral part of
+refineries. Light naphtha isomerisa-
+tion not only produces high octane
+isomerate products but it also takes
+care of the latest stringent gasoline
+specifications. Isomerisation units
+can handle the benzene content of
+the gasoline pool and most ben-
+zene and its precursors are diverted
+to the light naphtha fraction as the
+feed to this unit. The isomerisation
+unit saturates benzene to cyclohex-
+ane. The configuration of an isomer-
+isation unit depends on the required
+RON value of the gasoline pool.
+
+Ferien growth and envi-
+
+Overview of a light naphtha
+isomerisation unit
+Isomerisation and reforming are
+processes which help to improve
+the octane barrel of the end product
+by either converting straight chain
+paraffins to their branched isomers
+or by changing linear hydrocarbons
+into branched alkanes and cyclic
+naphthenes which are then par-
+tially dehydrogenated to produce
+high-octane aromatic hydrocarbons.
+Isomerisation reactions are
+reversible and mildly exothermic.
+Conversion to iso-paraffins does
+not reach completion since the
+reaction is equilibrium governed.
+
+www.digitalrefining.com
+
+| | Q2 DWC.indd 1
+
+ 
+
+n-Pentane
+
+n-Hexane
+
+n-Hexane
+
+ 
+
+Vw
+
+2-Methyl Pentane
+
+2,2-Dimethyl Butane
+
+>
+
+i-Pentane
+
+MY
+
+3-Methyl Pentane
+
+2,3-Dimethyl Butane
+
+ 
+
+ 
+
+Figure 1 Primary reactions in a light naphtha isomerisation unit
+
+RON values of individual components
+in a light naphtha isomerisation unit
+
+Component Boiling point, °C RON
+i-Pentane 278 93.5
+n-Pentane 36.1 61.7
+2,2-Dimethylbutane 48.7 93
+Cyclopentane 49.3 101.3
+2,3-Dimethylbutane 58 104
+2-Methylpentane 60.3 73.4
+3-Methylpentane 63.3 74.5
+n-Hexane 68.7 30
+Methylcyclopentane 71.8 95
+Benzene 80 >100
+Cyclohexane 80.7 83
+Table 1
+
+The presence of other components
+in the feed such as benzene and
+naphthenes tends to raise the reac-
+tion temperature as benzene satu-
+ration and naphthene ring opening
+are highly exothermic, while low
+temperatures favour the conver-
+sion of n-paraffins to iso-paraffins.
+However, operating at low tem-
+peratures will decrease the reac-
+tion rate, so to overcome this a very
+active catalyst is usually employed.
+
+Light naphtha isomerisation is
+
+evaluated on the basis of the prod-
+uct yields and the RON of the
+isomerate product. The liquid prod-
+uct yield is determined principally
+by the extent of hydrocracking
+which takes in the isomerisation
+unit. Hydrocracking is an undesir-
+able side reaction which converts
+light naphtha into light hydrocar-
+bon gas molecules which are low
+RON components. There is an
+inbuilt tendency in molecules with
+higher molecular number such as
+the heptanes and above to crack and
+produce undesirable components.
+C,+ molecules are diverted to the
+CCR unit instead of the isomerisa-
+tion unit, and benzene and benzene
+precursors help to manage this well.
+Figure 1 shows the primary light
+naphtha isomerisation reactions.
+The isomerisation reaction
+enhances the octane values of
+straight chain alkanes by isom-
+erising the n-pentane (nC, RON
+value 62) to iso-pentane (iC, RON
+93.5). Other low RON components
+like nC, (RON 31) are isomerised
+to 2-methylpentane (2MP, RON
+
+PTQ.Q22021 47
+
+15/03/2021 1126 | |
+ 
+
+H
+
+ 
+
+ 
+
+ 
+
+ 
+
+sé
+£3
+=e
+a3 =
+2% ie
+Crude = 2
+wet
+s
+Stabilised £ i}
+0
+naphtha =
+S
+2
+Other cuts
+To VDU
+
+ 
+
+ 
+
+ 
+
+Naphtha pool
+Gasoline pool
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 2 Typical location of a light naphtha isomerisation unit in a refinery
+
+74) and 3-methylpentane (3MP,
+RON 76). These 2MP and 3MP
+molecules are then isomerised to
+2,2-dimethylbutane (22DMB) with a
+RON of 94 and 2,3-dimethylbutane
+(23DMB) with a RON of 104. Table
+1 shows the comparative RON val-
+ues of individual components in an
+isomerisation unit.
+
+Unit configurations to meet RON
+requirements
+
+As isomerisation reactions are in
+equilibrium, various methods are
+used to push the reactions in the
+forward direction. The target RON
+desired for the combined isomer-
+ate product depends on two cri-
+teria, the first being removal of
+products from the isomerate stream
+and the other recycling low octane
+molecules from the product back
+to the isomerisation reactors. For
+this purpose, the depentaniser and
+deisopentaniser are installed. It can
+be concluded that, since the isom-
+
+erisation reactions are in equilib-
+rium, the product octane number
+is defined by the number of sep-
+aration units in the process. The
+sequence of columns used for sep-
+aration of isopentanes or isohex-
+anes clubbed with the isomerisation
+unit with recycle give benefits on
+account of managing the equilib-
+rium of the reactions taking place in
+the isomerisation unit to maximise
+RON. As the benchmark for RON
+is increased, there is an increase in
+reboiler duties which can be attrib-
+uted to the following factors:
+e Increase in RON requires a
+sharp separation between low and
+high-octane molecules due to which
+the reboiler load of the column
+increases.
+e RON can also be increased by
+recycling low RON components
+back to the reactor, which increases
+the reboiler duties of the down-
+stream columns.
+
+Apart from increased opex, the
+
+ 
+
+ISOM reactors
+
+Reactor heater
+
+Dried H,
+
+Dried
+naphtha
+feed
+
+RON 87-88
+
+ 
+
+   
+ 
+
+Off-gas Light isomerate
+
+ 
+
+ 
+
+  
+
+Stabiliser
+
+Product
+
+ 
+
+ 
+
+ 
+
+Deisohexaniser
+
+ 
+
+ 
+
+ 
+
+Heavy isomerate
+
+ 
+
+ 
+
+Figure 3 Typical configuration of a light naphtha isomerisation unit with hexane recycle
+
+48 PTQQ2 2021
+
+| | Q2 DWC.indd 2
+
+capex involved in deploying var-
+ious columns in the process of
+boosting octane makes the techno-
+crats in the facility rethink other
+options. Also, with facilities that
+have already invested in these col-
+umns, further enhancement of RON
+is always on the table. In this article,
+we will be discussing the various
+configurations of an isomerisation
+unit. Figure 2 shows the typical loca-
+tion of an isomerisation unit in a
+refinery. The top product from the
+naphtha splitter with C, less than
+3% is sent to the isomerisation unit.
+
+Typical configurations of
+isomerisation units in a refinery
+Once-through vs hexane recycle
+The simplest isomerisation units are
+once-through units. Fresh feed is
+sent to a feed pretreatment section
+and then passes through a series of
+isomerisation reactors after mixing
+with hydrogen gas where it comes
+into contact with the catalyst. The
+reactor effluent is sent to a stabi-
+liser column where hydrogen and
+light hydrocarbons produced due
+to hydrocracking are removed from
+the top as off-gas and the isomerate
+is removed from the stabiliser bot-
+toms. The RON achievable through
+these once-through processes is
+about 85.
+
+Refineries that want to achieve
+RON beyond a value of 85 deploy
+ways to recycle low octane mol-
+ecules back to the isomerisation
+reactor. Facilities which have an
+isomerisation reactor followed by
+a deisohexaniser (DIH) column can
+achieve a product RON of up to 88
+by recycling a high percentage of
+the n-hexane, 2-methylpentane, and
+3-methylpentane, which are low in
+RON, back to the reactor.
+
+This is achieved by drawing the
+mid-cut from the DIH column. The
+DIH produces a light isomerate
+distillate product consisting of C,
+and branched C, molecules (rich
+in DMBs), a C, recycle side draw,
+and a C,+ bottoms product. For a
+recycle stream at 60% of the fresh
+feed, an octane increase of several
+points is achieved compared to the
+once-through operation. Typically,
+one can expect a RON increase
+from 83-84 to 87-88 with DIH col-
+umn hexane recycle to the isom-
+
+www.digitalrefining.com
+
+15/03/2021 1126 | |
+ 
+
+| | sulzer.indd 1
+
+Rewriting the fate of your refinery
+
+Is it your refinery’s fate to fade away when global gasoline demand drops? Sulzer’s process
+technology provides a unique opportunity for you to rewrite the destiny of your refinery.
+
+With the acquisition of GTC Technology, the portfolio now includes a range of cutting-
+edge refining and petrochemical process technologies. Sulzer GTC offers the refining
+industry "GT-BTX PluS™”, a patented technology application that utilizes a simple low-cost
+extractive distillation system. GT-BTX PluS can enable FCC/RFCC gasoline desulfurization
+to meet Euro V or VI regulations with nearly no octane loss to ensure maximum profit
+margin when refineries continue producing gasoline. This same technology also provides
+the flexibility to convert gasoline molecules into petrochemicals, such as aromatics and
+propylene, to further enhance profitability and adapt to market change. GT-BTX PluS
+unlocks the full potential of existing FCC/RFCC units, allowing refineries to determine their
+destiny, regardless of how the market changes — toward fuels or petrochemicals.
+
+Find out how our industry-leading fluid engineering can make a difference for your process at sulzer.com. SU LZ ER
+
+12/03/2021 r250 | |
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ISOM Reactors Light
+en isomerate
+heater Off-Gas.
+B
+§ .
+2 5 E
+Dried —>| & 2 €
+Naphtha 3 2 3
+feed a a $ Product
+ov
+a
+Dried H,
+RON 89-90 Heavy isomerate
+Figure 4 Typical light naphtha isomerisation unit with hexane recycle and
+deisopentanised feed
+Cs Recycle
+ISOM Reactors 5 Recy« Light
+en isomerate
+heater Off-Gas
+& ~
+oy @
+5 2
+5 ~
+z 5 § z
+Dried —>| & = g 5
+Naphtha 3 4 2 5
+feed a a a 3 Product
+‘o
+a
+Dried H,
+RON 91-93 Heavy isomerate
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 5 Isomerisation unit with hexane recycle, deisopentanised feed, and C, recycle
+
+erisation reactor. Figure 3 shows
+a typical configuration of a light
+naphtha isomerisation unit with
+hexane recycle.
+
+Isomerisation unit with hexane
+recycle and deisopentanised feed
+Some facilities, in addition to a DIH
+column with recycle, have a deiso-
+pentaniser (DIP) column installed
+before the isomerisation reactor.
+This helps in achieving an isomer-
+ate product of RON up to 90. As
+the DIP is placed in a feed fraction-
+
+ation section, it removes iC, from
+the feed as overhead distillate prod-
+uct, which pushes the reaction in
+the forward direction. The balance
+of the feed is sent to isomerisation
+reactors and the reactor effluent is
+sent to a DIH column to separate
+high octane C,/C, isomerate prod-
+uct from low octane C, molecules
+which are recycled to the isomeri-
+sation reactor. Thus the addition of
+a DIP increases the RON over that
+of a ‘DIH only’ configuration (see
+Figure 4).
+
+Typical RON for various isomerisation unit configurations
+
+lsomerisation unit process configuration
+
+No of column RON of isomerate
+
+product
+Once-through Stabiliser 81-84
+Hexane recycle Stabiliser + deisohexaniser 87-88
+
+Deisopentanised feed and
+hexane recycle
+Pentane and hexane recycle
+
+Deisopentaniser + stabiliser + deisohexaniser 89-90
+
+Deisopentaniser + stabiliser + 91-93
+
+Depentaniser + deisohexaniser
+
+Table 2
+
+50 PTQQ2 2021
+
+| | Q2 DWC.indd 3
+
+Isomerisation unit with hexane
+recycle, deisopentanised feed, and
+C, recycle
+
+Unconverted n-pentanes with RON
+values as low as 61 are sent to the
+DIH distillate and thus become a
+part of the final isomerate prod-
+uct. For full conversion of all nor-
+mal paraffins, recycling is required
+via a depentaniser (DP) installed
+before the DIH column. This helps
+to make a_ sharper separation
+between the DMB-rich C, isomer-
+ate product and the iC,/nC, recycle
+stream. The DP column removes
+iC,/nC, as an overhead distillate
+product upstream of the DIH and
+recycles it back to the deisopen-
+taniser column, which in turn sep-
+arates iC, as the high RON top
+product, and nC, is recycled back
+to the reactor via bottoms product.
+This again helps in pushing the
+equilibrium reactions in the for-
+ward direction. The configuration
+(see Figure 5) improves RON up to
+93.
+
+Table 2 shows how the introduc-
+tion of DP/DIP/DIH columns in
+the isomerisation loop in various
+combinations, clubbed with the type
+of process employed, impacts the
+achievable RON.
+
+Developments in dividing wall
+column technology applied to
+isomerisation
+Advances in distillation play a key
+role in minimising the costs of new
+and revamped projects in a refin-
+ery. Dividing wall column (DWC)
+technology had limited acceptance
+20 years ago but is now reshaping
+our distillation processes. DWC
+technology is increasingly used to
+modernise conventional distillation
+sequences, especially in revamps of
+existing units. Besides energy and
+throughput improvements, a DWC
+revamp significantly improves the
+performance of downstream units.
+The alignment of the dividing
+wall inside the column plays a
+dominant role in the selection of
+DWC for a particular separation.
+The middle DWC is an ideal alter-
+native for side cut columns, which
+helps to increase throughput and
+gives better product specifications.
+The top DWC provides an addi-
+tional source of heat integration
+
+wwwadigitalrefining.com
+
+15/03/2021 1126 | |
+ 
+
+Partial Liquid return
+
+Dividing wall
+
+Dividing wall
+
+Reboiler draw off <—
+
+BTMS Liquid out <—
+
+ 
+
+Partial Liquid draw «— [Ff
+
+—4
+
+Feedin —»—+
+
+Reboiler draw off «—
+
+Reboiler return =p}
+
+BTMS Liquid out —— |}
+
+Refluxin —»
+
+Feed in ——»-
+
+Reboiler return ==>}
+
+Vapour out
+
+ 
+
+ 
+
+H— Refluxin
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+ 
+
+E] —» Partial Liquid draw
+
+\~——_ Partial Liquid return
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+——» Side product
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Vapour out
+
+ 
+
+aries
+
+ 
+
+MIDDLE DIVIDING WALL COLUMN
+
+Vapour out
+t
+
+ 
+
+<—— Reflux in
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TOP DIVIDING WALL COLUMN
+
+Vapour out
+
+ 
+
+1} —
+
+Reflux in
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Feed in
+
+ 
+
+Reboiler draw off <—
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Dividing wall
+
+ 
+
+ 
+
+Reboiler return =»
+
+ 
+
+—=» Reboiler draw off
+
+H}<=—= Reboiler return
+
+ 
+
+BTMS Liquid 1 out ——
+
+ 
+
+ 
+
+ 
+
+Ff} > BTMS Liquid 2 out
+
+ 
+
+BOTTOM DIVIDING WALL COLUMN
+
+Vapour out
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Dividing wall No. 1 ——++
+
+Feed in —»
+
+ 
+
+-—_| Dividing wall No. 2
+
+|, .. Sidecut product-2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ly —» Sidecut product-1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+i
+Reboiler draw off —— i
+
+ 
+
+ 
+
+Reboiler return —»[—<
+
+are
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+—» Bottoms product
+
+ 
+
+DUAL DIVIDING WALL COLUMN
+
+ 
+
+ 
+
+Figure 6 Elevation of commonly used dividing wall columns Source: DWC Innovations
+
+www.digitalrefining.com
+
+| | Q2 DWC.indd 4
+
+PTQQ22021 51
+
+15/03/2021 1126 | |
+ 
+
+Isom Unit with DIH Recycle
+
+ 
+  
+
+Hydrogen
+
+Hydrotreated
+C; / C, Lt. Nap. feed
+
+RON 87-88
+
+ 
+
+Recycle MP + NC,
+
+ 
+ 
+
+Heavy isomerate MCP + CH + C,
+
+Light isomerate
+iC; + NC; + DMB
+
+Hydrogen
+
+   
+  
+
+Deisohexaniser
+
+ 
+
+Revamp of DIH Column to DWC Prime
+
+ 
+   
+
+Cs/Ce
+
+RON 89-90
+
+Light isomerate
+iC; + NC; + DMB
+
+ 
+
+rd
+
+Hydrotreated
+Cs/Ce
+) Lt. Nap. feed
+
+Recycle MP + NC,
+
+Deisohexaniser
+
+ 
+
+ 
+
+ 
+
+Heavy isomerate MCP + CH + C,
+
+ 
+
+ 
+
+Figure 7 Revamp of a DIH column to DWC in an isomerisation unit with hexane recyle
+
+with other process streams. On
+the other hand, the bottom DWC
+has the advantage of replacing a
+two-column arrangement in an
+indirect sequence.
+
+The latest advance in DWC tech-
+nology is dual wall dividing col-
+umns which are known to have a
+higher thermodynamic efficiency
+than their counterparts. From the
+outside, it is no different from a
+simple DWC but has the capability
+to deliver four or more high purity
+products from a single column. As
+dual wall columns are robust, flex-
+ible, and easy to operate, this tech-
+nology has become viable. Figure 6
+shows the elevations of commonly
+used DWCs.
+
+Revamp of a deisohexaniser column
+using DWC technology
+
+DWC technology plays a key role
+in enhancing the performance of
+isomerisation units. Facilities that
+want to improve the RON of the
+final isomerate find divided wall
+column technology lucrative as this
+involves only the deisohexaniser
+(DIH) column being revamped, so
+as to include the additional func-
+
+tionality of DIP or DP columns as
+the case may be. Besides enhanc-
+ing separation, DWC revamps pro-
+vide considerable energy savings
+when compared to conventional
+distillation column flow schemes.
+The use of DWC technology in an
+isomerisation unit not only targets
+improvement in RON but brings
+the added advantage of increased
+throughput which would other-
+wise require installation of new
+columns. The remaining part of
+this article focuses on the appli-
+cations and outcomes of revamp-
+ing the DIH column in various
+configurations.
+
+Application of DWC in isomerisation
+units with hexane recycle
+
+The DIH column _ recirculates
+unbranched molecules, mainly
+n-hexanes and  methylpentanes,
+after removal of branched, high-
+RON molecules back to the isom-
+erisation reactor. The top product,
+the light isomerate, contains mainly
+isopentanes, dimethylbutanes,
+and methylpentanes. The less the
+amount of methylpentanes going
+to the top product, the better the
+
+RON value of the final isomerate.
+Although this configuration defi-
+nitely gives a higher RON than a
+once-through process, the RON can
+be further increased by recirculating
+methylpentanes back to the reac-
+tor. Also, separation of isopentanes
+present in the fresh feed going to
+the isomerisation reactor contribute
+to higher RON values. The isopen-
+tanes present in the fresh feed take
+a free ride in the isomerisation reac-
+tion process and restrict the forward
+reaction to produce more branched
+chain components. The conven-
+tional method for removing isopen-
+tanes from fresh feed is to install a
+DIP column upstream of the isom-
+erisation reactor.
+
+The revamp of an existing DIH
+column to a DWC enables it to have
+the dual functionality of a deiso-
+pentaniser. Hydrotreated naphtha
+is first sent to the revamped DIH
+column which now produces four
+sharp cuts. As Figure 7 shows, the
+light/heavy isomerate and the recy-
+cle are managed in a way similar to
+that before the revamp, while the
+fourth cut is the fresh feed to the
+isomerisation reactor without iso-
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Isom with DIP & DIH Recycle Light isomerate Revamp of DIH Column to DWC Prime
+, iC; + NC; + DMB ,
+ICs iC Recycle iC; / NC;
+Off gas
+Hydrogen Off gas
+5 . 5 Hydrogen .
+2 g a 3 | -———
+§ . § < Light
+5 oS 5 6 isomerate
+£ c= i
+= $ 3 §|| ics+DMB
+Hydrotreated | & a Hydrotreated | & a
+Cs/ Ce Cs/ Cy
+Recycle MP + NC, Recycle MP + NC,
+Lt. Nap. feed ¥ ° Lt. Nap. feed ¥ °
+RON 89-90 Heavy isomerate MCP + CH + C, RON 91-93 Heavy isomerate MCP + CH + C,
+
+ 
+
+ 
+
+Figure 8 Revamp of a DIH column to DWC in an isomerisation unit with hexane recycle and deisopentanised feed
+
+52 PTQQ2 2021
+
+| | Q2 DWC.indd 5
+
+www.digitalrefining.com
+
+15/03/2021 1126 | |
+Performance of an isomerisation unit after revamp of a DIH column to DWC
+
+No of columns in
+isomerisation unit
+
+RON of existing
+
+isomerisation
+
+Performance of isomerisation unit after revamp
+of deisohexaniser column to dividing wall column
+RON Increase in Remarks
+
+Conclusion
+
+The benefits of DWC technology
+have grown beyond reduction
+in energy consumption or capex.
+Refineries are using DWC _ tech-
+nology for maximising revenue
+from newer or better products. It is
+increasingly used in debottleneck-
+ing existing units in the refinery.
+Light naphtha isomerisation is one
+such example, in which the simple
+revamp of a DIH column improves
+the unit’s performance by improv-
+ing RON along with an increase in
+
+configuration unit throughput
+Stabiliser + 87-88 89-90 10-20% Existing DIH column
+deisohexaniser (DIH) performs dual
+functionality of hexane
+recycle & deisopentaniser
+after the revamp to DWC
+Deisopentaniser (DIP) +
+stabiliser + deisohexaniser 89-90 91-93 5-10% Existing DIH column
+(DIH) performs dual
+functionality of hexane
+recycle & depentaniser
+after the revamp to DWC
+Table 3
+
+pentanes. This is an attractive and lucrative scheme as
+a DWC revamp of a DIH saves the installation of a DIP
+column, though offering the same benefits.
+
+The advantage of this revamp is a boost in RON to
+90, from 87 previously, along with a fresh feed increase
+of 10-20%. Figure 7 compares a conventional DIH to a
+post-revamp version converted to a DWC configuration
+unit with hexane recycle.
+
+A conventional configuration of an isomerisation
+unit with hexane recycle and a DIP column can attain
+a RON close to 90 as the presence of the DIP column
+helps remove most iC, before the reactor which in turn
+affects the reaction equilibrium in the forward direc-
+tion. But to achieve RON values beyond this number,
+unreacted nC, needs to be recirculated back to the reac-
+tor. The DIH column in the conventional configuration
+is not able to restrict nC, going to the light isomerate,
+hence maximum conversion of nC, to its high-octane
+isomer is not achieved. Also, because some portion of
+nC, becomes a part of the light isomerate this affects
+the RON adversely. By revamping the conventional
+DIH column to dividing wall, more of the sharper cuts
+can be obtained and the RON of the isomerate can be
+improved further.
+
+Figure 8 shows that, to improve the RON of the
+final product further, the DIH column is revamped to
+a DWC s0 as to draw four cuts from the column. The
+light and the heavy isomerate are combined and sent to
+the gasoline pool, while the third cut is recycled to the
+reactor in a manner similar to the conventional scheme.
+The fourth cut drawn from the DIH column primarily
+consists of iC, along with unreacted nC, which is recy-
+cled back to the DIP column. The deisopentaniser col-
+umn removes isopentanes from the fresh feed along
+with the recycle stream from the revamped DIH col-
+umn. The bottoms of the DIP column are rich in straight
+chain components and are routed to the isomerisation
+reactor. The revamp of a DIH column in this configura-
+tion provides the dual functionality of a DP column and
+helps in achieving a RON of 91-93 in the final isomerate
+product.
+
+Table 3 summarises the benefits of DWC technology
+for various isomerisation configurations.
+
+www.digitalrefining.com
+
+| | Q2 DWC.indd 6
+
+throughput.
+
+Manish Bhargava is the Founder and Director
+
+of DWC Innovations in Houston, Texas. He has
+
+19 years’ experience with process optimisation
+solutions and distillation techniques in refineries and chemical plants, and
+played a pivotal role in the technology and commercialisation of dividing
+wall columns. He holds a bachelor’s degree in chemical engineering from
+MNIT, Jaipur, India and a MS degree in chemical engineering from Illinois
+Institute of Technology. Email: mbhargava@dwcinnovations.com
+
+Anju Patil is Head of India Operations for DWC Innovations in Gurgaon,
+India. She has 17 years’ experience in process design and simulation,
+including dividing wall column technologies, and holds a bachelor’s
+degree in chemical engineering from MNIT, Jaipur, India.
+
+Email: apatil@dwcinnovations.com
+
+ 
+
+ 
+
+Idrojet s.r.l. & Idrokid s.r.l.
+
+proudly presents...
+..your full line of heat exchangers maintenance product
+
+AERIAL BUNDLE EXTRACTOR
+
+TRUCK MOUNTED BUNDLE EXTRACTOR
+Idrojet s.r.1.
+
+STUD PIGGING SYSTEM MACHINE
+
+Idrokid s.r.1.
+Via Luigi Pirandello s.n. Via Luigi Pirandello s.n.
+95040 Piano Tavola (CT) - ITALIA 95040 Piano Tavola (CT) - ITALIA
+Tel, 095 7131125 - Fax +39 095 391446 — Mobile +39 3356472562
+email:info@idrojet.com
+
+idroj website:www.idrokid.com
+
+ 
+
+PTQ.Q2 2021 53
+
+15/03/2021
+
